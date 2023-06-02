@@ -1,7 +1,7 @@
 import "./App.css";
-import mug from "/assets/kd_faceshot.jpeg";
-import emailIcon from "/assets/email-icon.svg";
-import linkedinIcon from "/assets/linkedinl-icon.svg";
+import mug from "./assets/kd_faceshot.jpeg";
+import emailIcon from "./assets/email-icon.svg";
+import linkedinIcon from "./assets/linkedin-icon.svg";
 
 function Info() {
   return (

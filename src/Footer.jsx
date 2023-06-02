@@ -1,8 +1,8 @@
 import "./App.css";
-import twitterLogo from "../assets/twitter-icon.png";
-import fbLogo from "../assets/fb-icon.png";
-import gitLogo from "../assets/git-icon.png";
-import igLogo from "../assets/ig-icon.png";
+import twitterLogo from "./assets/twitter-icon.png";
+import fbLogo from "./assets/fb-icon.png";
+import gitLogo from "./assets/git-icon.png";
+import igLogo from "./assets/ig-icon.png";
 
 function Footer() {
   return (
