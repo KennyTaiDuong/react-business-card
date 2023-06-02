@@ -1,12 +1,16 @@
 import "./App.css";
+import twitterLogo from "../assets/twitter-icon.png";
+import fbLogo from "../assets/fb-icon.png";
+import gitLogo from "../assets/git-icon.png";
+import igLogo from "../assets/ig-icon.png";
 
 function Footer() {
   return (
     <footer>
-      <img src="assets/twitter-icon.png" />
-      <img src="assets/fb-icon.png" />
-      <img src="assets/ig-icon.png" />
-      <img src="assets/git-icon.png" />
+      <img src={twitterLogo} />
+      <img src={fbLogo} />
+      <img src={igLogo} />
+      <img src={gitLogo} />
     </footer>
   );
 }
