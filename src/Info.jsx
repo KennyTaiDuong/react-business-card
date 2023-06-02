@@ -3,7 +3,7 @@ import "./App.css";
 function Info() {
   return (
     <div>
-      <img src="src\assets\kd_faceshot.jpeg" className="self-portrait" />
+      <img src=".\src\assets\kd_faceshot.jpeg" className="self-portrait" />
       <div className="info-container">
         <h2 className="name">Kenny Duong</h2>
         <h4 className="position">Frontend Developer</h4>
